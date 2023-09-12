@@ -7,7 +7,7 @@ const CarWidget = () => {
     return (
         <div>
             <TiShoppingCart />
-            
+            <strong> 0 </strong>
             <FuncionCarrito />
 
         </div>
