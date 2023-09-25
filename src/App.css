@@ -35,8 +35,24 @@
 
 .card {
   padding: 2em;
+  background-color: bisque;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+
+.nav-links {
+  list-style-type: none;
+  padding: 0;
+  display: flex;  /* Hace que los elementos sean flexibles */
+  justify-content: space-between;  /* Distribuye el espacio entre los elementos */
+}
+
+.nav-links li {
+  margin-right: 20px;  /* Espacio entre elementos */
+}
+.div.container {
+  background-color: rgb(247, 205, 247)
 }
